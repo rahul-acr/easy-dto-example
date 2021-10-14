@@ -1,6 +1,6 @@
-package com.example.dtotest.service;
+package org.easydto.dtotest.service;
 
-import com.example.dtotest.entity.Student;
+import org.easydto.dtotest.entity.Student;
 
 import java.util.List;
 

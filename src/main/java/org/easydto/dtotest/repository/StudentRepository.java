@@ -1,6 +1,6 @@
-package com.example.dtotest.repository;
+package org.easydto.dtotest.repository;
 
-import com.example.dtotest.entity.Student;
+import org.easydto.dtotest.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

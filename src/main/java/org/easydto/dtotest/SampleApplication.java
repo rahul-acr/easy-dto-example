@@ -1,4 +1,4 @@
-package com.example.dtotest;
+package org.easydto.dtotest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.easydto.jackson.Registerer;

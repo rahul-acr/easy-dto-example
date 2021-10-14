@@ -1,7 +1,7 @@
-package com.example.dtotest.service;
+package org.easydto.dtotest.service;
 
-import com.example.dtotest.entity.Student;
-import com.example.dtotest.repository.StudentRepository;
+import org.easydto.dtotest.entity.Student;
+import org.easydto.dtotest.repository.StudentRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

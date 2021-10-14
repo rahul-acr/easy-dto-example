@@ -1,7 +1,7 @@
-package com.example.dtotest.controller;
+package org.easydto.dtotest.controller;
 
-import com.example.dtotest.entity.Student;
-import com.example.dtotest.service.StudentService;
+import org.easydto.dtotest.entity.Student;
+import org.easydto.dtotest.service.StudentService;
 import org.easydto.proxy.Dto;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

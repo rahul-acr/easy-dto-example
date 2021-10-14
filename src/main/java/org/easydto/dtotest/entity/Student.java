@@ -1,4 +1,4 @@
-package com.example.dtotest.entity;
+package org.easydto.dtotest.entity;
 
 import lombok.*;
 import org.easydto.annotation.DtoProperty;
